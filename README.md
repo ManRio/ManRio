@@ -4,15 +4,12 @@
   <img align="center" alt="Jaskirat's LinkedIn" width="80px" src="https://github.com/user-attachments/assets/08909584-7fd3-4e1f-9584-85a47966c89e" />
 </a>
 
-
-<br />
-<br />
 <br />
 <br />
 
 Soy un ***Entusiasta*** del ***DESARROLLO WEB*** 🚀.
  
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" width="400px" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFvemF5ZXRmeXp6ZThxc3BzczQ0MnlsdG9oczVoaGw1dXoyaTRxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7SKqn3G97xpmfSOvG/giphy.webp" />
 
 **Algo más sobre mi**
 
@@ -22,6 +19,9 @@ Soy un ***Entusiasta*** del ***DESARROLLO WEB*** 🚀.
 - 💬 Pregúntame sobre cualquier cosa, ¡me encanta responder!
 - 📫 Contacta conmigo en:  [manureina87@gmail.com](mailto:manureina87@gmail.com).
 
+
+<br />
+<br />
 
 **Languages and Tools:**  
 
