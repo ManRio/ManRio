@@ -1,49 +1,63 @@
-<h2 title="hehehe"> ¡Hola Mundo! 👋 , ¡Soy ManRio!</h2>
+# ✨ Hola, soy Manuel Ríos
 
-<a align="center" href="https://www.linkedin.com/in/riosreinamanuel">
-  <img align="center" alt="Jaskirat's LinkedIn" width="80px" src="https://github.com/user-attachments/assets/08909584-7fd3-4e1f-9584-85a47966c89e" />
-</a>
+**Desarrollador Web Full Stack** & **Apasionado por la Innovación Tecnológica**
 
-<br />
-<br />
+---
 
-Soy un ***Entusiasta*** del ***DESARROLLO WEB*** 🚀.
- 
-  <img align="right" width="400px" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFvemF5ZXRmeXp6ZThxc3BzczQ0MnlsdG9oczVoaGw1dXoyaTRxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7SKqn3G97xpmfSOvG/giphy.webp" />
+### 🌐 Sobre mí
 
-**Algo más sobre mi**
+- 👨‍💼 Formado en desarrollo de software y en constante aprendizaje.
+- ✨ Me encanta construir soluciones creativas que impacten positivamente.
+- 🔧 Fuerte enfoque en proyectos **Full Stack** utilizando Java, Spring Boot, React y MySQL.
+- 📈 Apasionado por el crecimiento profesional y los nuevos retos.
 
-- 👨🏽‍💻 Actualmente estoy finalizando mis estudos de DAW en ILERNA Sevilla.
-- 🌱 Estoy explorando a fondo REACT y NodeJS, también el MERN Stack al completo. 
-- 🤔 Mi interés está enfocado en el Desarrollo Web Front-End, pero no cierro las puertas a descubrir algo de Back-End.
-- 💬 Pregúntame sobre cualquier cosa, ¡me encanta responder!
-- 📫 Contacta conmigo en:  [manureina87@gmail.com](mailto:manureina87@gmail.com).
+---
 
+### 🚀 Tecnologías y Herramientas
 
-<br />
-<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-**Languages and Tools:**  
+---
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+### 💡 Mis Proyectos
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+- [🔗 **Portfolio Profesional**](https://portfolio-manriodevs-projects.vercel.app/) ✨
+- [📦 StockIt — Gestión de inventario SaaS](https://github.com/ManRio/StockIt)
+- [🌍 Landing Page Responsive](https://github.com/ManRio/landingPageResponsive)
+- [🏢 Aplicación JAMAR](https://github.com/ManRio/jamar)
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+---
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hr/>
-----
-Credit: [Jas-Script](https://github.com/Jas-Script)
+### 📬 Contacto
 
-Last Edited on: 04/01/2021
+<p align="center">
+  <a href="https://www.linkedin.com/in/riosreinamanuel/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:manureina87@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ManRio">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManRio&show_icons=true&theme=radical" alt="Estadísticas GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManRio&theme=radical" alt="Racha de GitHub" />
+</p>
+
+---
+
+✨ *"Construyendo hoy las soluciones del mañana."*
