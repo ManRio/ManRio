@@ -1,42 +1,63 @@
-# ✨ Hola, soy Manuel Ríos
+# 👋 ¡Hola, soy Manuel Ríos!
 
-**Desarrollador Web Full Stack** & **Apasionado por la Innovación Tecnológica**
+**Desarrollador Web Full Stack** | **Apasionado por la Innovación y la Automatización**
 
 ---
 
 ### 🌐 Sobre mí
 
-- 👨‍💼 Formado en desarrollo de software y en constante aprendizaje.
-- ✨ Me encanta construir soluciones creativas que impacten positivamente.
-- 🔧 Fuerte enfoque en proyectos **Full Stack** utilizando Java, Spring Boot, React y MySQL.
-- 📈 Apasionado por el crecimiento profesional y los nuevos retos.
+- 🎯 Desarrollador web con experiencia en **aplicaciones empresariales y soluciones internas de RRHH**.  
+- ⚙️ Combino tecnologías **JavaScript, Python y Java** para construir productos robustos y escalables.  
+- 🤖 Interesado en la **automatización de procesos** con herramientas como **n8n** y en el desarrollo de **API REST**.  
+- 🚀 Me motiva aprender continuamente y asumir nuevos retos tecnológicos.  
 
 ---
 
-### 🚀 Tecnologías y Herramientas
+### 🧩 Tecnologías y Herramientas
 
 <p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 💡 Mis Proyectos
+### 💼 Experiencia Destacada
 
-- [🔗 **Portfolio Profesional**](https://portfolio-manriodevs-projects.vercel.app/) ✨
-- [📦 StockIt — Gestión de inventario SaaS](https://github.com/ManRio/StockIt)
-- [🌍 Landing Page Responsive](https://github.com/ManRio/landingPageResponsive)
-- [🏢 Aplicación JAMAR](https://github.com/ManRio/jamar)
+- **Desarrollador Web (Becario DAW)** — *Grupo Oro (Jun 2025 – Ago 2025)*  
+  Desarrollo de aplicación interna con **gamificación**, mejorando la productividad del equipo en un 25%.  
+  Colaboración en **automatizaciones con n8n** y desarrollo de webs con **React, TypeScript y WordPress**.  
+
+- **Experiencia previa en RRHH, logística y coordinación de equipos**, aplicando herramientas digitales como **Salesforce** y **Power BI**.
+
+---
+
+### 💡 Proyectos Destacados
+
+- [🔗 **Aplicación Gamificación Tareas y Recursos Humanos**](https://github.com/ManRio/OroManager)  
+- [📦 **StockIt — Gestión de inventario SaaS**](https://github.com/ManRio/StockIt)  
+- [🌍 **SPA producto - Guantes de Boxeo -**](https://github.com/ManRio/spa-producto)  
+- [🏢 **Aplicación Moneda Virtual para Alumnos y canjeo por tareas**](https://github.com/ManRio/task_gamification)
 
 ---
 
 ### 📬 Contacto
-
+<p align="center">
+  <a href="https://www.manrio.dev/">
+    <img src="https://img.shields.io/badge/Web%20Personal-0A66C2?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+  </a>
 <p align="center">
   <a href="https://www.linkedin.com/in/riosreinamanuel/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
