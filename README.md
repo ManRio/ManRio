@@ -80,7 +80,7 @@ Mi experiencia anterior en **RRHH, logística y coordinación de equipos** me ay
 ## 📫 Contacto
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-www.manrio.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.manrio.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Ríos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riosreinamanuel/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Ríos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manriodev/)
 [![Email](https://img.shields.io/badge/Email-manureina87%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manureina87@gmail.com)
 
 ---
