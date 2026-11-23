@@ -1,97 +1,98 @@
-# 👋 Hola, soy Manuel Ríos
+# Hola, soy Manuel Ríos 👋
 
-### Desarrollador Web Junior | React · TypeScript · Node.js · Python
+### Desarrollador web Full Stack · React · TypeScript · Node.js · Python
 
-Desarrollo aplicaciones web y APIs REST, con especial interés en crear soluciones útiles para pequeñas empresas y mejorar procesos mediante tecnología.
+Desarrollo aplicaciones web que intentan resolver problemas concretos: desde una **tienda online para un negocio real** hasta herramientas de gestión, automatización y pequeños proyectos nacidos de necesidades cotidianas.
 
-Tras varios años trabajando en coordinación de equipos, RRHH y operaciones, reorienté mi carrera hacia el desarrollo web. Esa experiencia me aporta una visión práctica de los problemas de negocio, facilidad para trabajar en equipo y atención a las necesidades reales de los usuarios.
+Vengo de otros sectores profesionales y decidí orientar mi carrera hacia el desarrollo de aplicaciones web. Esa experiencia me ayuda a entender que el código es solo una parte del trabajo: también importan los procesos, las personas que utilizan el producto y que la solución funcione fuera de nuestro ordenador.
 
-Actualmente estoy profundizando en **React, TypeScript, FastAPI y testing**, mientras desarrollo proyectos propios para seguir mejorando como profesional.
+📍 **Sevilla, España** · **Abierto a oportunidades junior** en frontend, Full Stack y automatización, en Sevilla o en remoto.
 
-📍 Sevilla, España · Disponible para oportunidades junior en modalidad presencial, híbrida o remota
+[![Portfolio](https://img.shields.io/badge/Ver_portfolio-manrio.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://manrio.dev)
+[![LinkedIn](https://img.shields.io/badge/Conectar_en-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelriosdev/)
+[![Email](https://img.shields.io/badge/Escríbeme-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manureina87@gmail.com)
 
-## 🛠️ Tecnologías
+## Proyectos que mejor cuentan lo que hago
 
-### Frontend
+### 🛒 [PN Impresión 3D](https://pn3d.es) — Ecommerce para un cliente real
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+Desarrollo de una tienda online para un negocio de impresión 3D. Incluye catálogo, variantes de producto, carrito, pagos con Stripe, gestión de pedidos y panel de administración.
 
-### Backend y bases de datos
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · Prisma · PostgreSQL · Stripe
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+[Ver tienda](https://pn3d.es) · [Ver código](https://github.com/ManRio/pn-impresion-3d) · [Leer caso práctico](https://manrio.dev/projects/pn-impresion-3d)
 
-### Herramientas y prácticas
+### 🧾 [VeriFactu App](https://github.com/ManRio/verifactu-app) — Gestión comercial y facturación
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+Proyecto propio en desarrollo, con gestión de clientes, productos, pedidos, albaranes y facturas. Me está permitiendo trabajar con una API REST, arquitectura backend, base de datos, migraciones y pruebas automatizadas.
 
-## 🚀 Proyectos destacados
+**Stack:** Python · FastAPI · React · TypeScript · PostgreSQL · SQLAlchemy · Alembic · Pytest · Docker
 
-### [Verifactu App](https://github.com/ManRio/verifactu-app)
+[Ver repositorio](https://github.com/ManRio/verifactu-app) · [Leer caso práctico](https://manrio.dev/projects/verifactu-app)
 
-Aplicación de facturación orientada a pequeños negocios, desarrollada para practicar arquitectura backend, validación de datos y testing.
+> **Estado:** aplicación en evolución. El nombre del proyecto no implica que la integración o el cumplimiento normativo de VERI*FACTU estén completados.
 
-`FastAPI` `Python` `SQLAlchemy` `PostgreSQL` `Pytest` `Docker`
+### 📦 [StockIt](https://github.com/ManRio/StockIt) — Gestión de inventario
 
-### [StockIt](https://github.com/ManRio/StockIt)
+Proyecto final de Desarrollo de Aplicaciones Web. Aplicación para gestionar productos, inventario y usuarios con un backend en Java y Spring Boot y una interfaz en React.
 
-Aplicación web para gestionar inventario, usuarios y ventas, con autenticación mediante JWT y distintos roles de acceso.
+**Stack:** Java · Spring Boot · React · MySQL · API REST
 
-`React` `Spring Boot` `Java` `MySQL` `JWT`
+[Ver repositorio](https://github.com/ManRio/StockIt) · [Leer caso práctico](https://manrio.dev/projects/stockit)
 
-### [BoxingGloves](https://github.com/ManRio/spa-producto)
+### 🏢 ORO Manager — Experiencia durante las prácticas profesionales
 
-SPA de catálogo de productos con carrito, animaciones, diseño responsive y despliegue en Vercel.
+Durante mis prácticas de DAW en **Grupo Oro** participé en una aplicación interna de gestión de empleados, con funcionalidades de gamificación y automatizaciones de procesos. Una oportunidad para trabajar sobre necesidades de una organización real.
 
-`React` `Vite` `Tailwind CSS` `Framer Motion`
+**Tecnologías utilizadas:** Next.js · React · TypeScript · Firebase · n8n
 
-### [Portfolio personal](https://www.manrio.dev/)
+[Leer mi experiencia y el caso práctico](https://manrio.dev/projects/ProjectOroManager)
 
-Portfolio donde presento mi experiencia, proyectos y evolución como desarrollador web.
+### 📄 [IntercalaPDF](https://intercarlar-pdf.vercel.app/) — Una herramienta nacida de un problema real
 
-`React` `TypeScript` `Tailwind CSS` `Vercel`
+Necesitaba unir las páginas de un documento escaneado por ambas caras con un alimentador que solo escaneaba una cara. Creé una web para intercalar dos PDF, pudiendo invertir el orden del segundo, sin enviar los archivos a un servidor.
 
-## 💼 Experiencia reciente
+**Stack:** JavaScript · HTML · CSS · pdf-lib
 
-Durante mis prácticas de **Desarrollo de Aplicaciones Web en Grupo Oro**, participé en el desarrollo de una aplicación interna con React y TypeScript, trabajé con Firebase y colaboré en automatizaciones con n8n y tareas web con WordPress/PHP.
+[Probar herramienta](https://intercarlar-pdf.vercel.app/) · [Ver código](https://github.com/ManRio/intercarlar-pdf) · [Leer caso práctico](https://manrio.dev/projects/intercala-pdf)
 
-Mi experiencia anterior en **RRHH, logística y coordinación de equipos** me ayuda a entender procesos, comunicarme con perfiles distintos y desarrollar soluciones pensando en las personas que van a utilizarlas.
+**También:** [Task Gamification](https://github.com/ManRio/task_gamification), una aplicación educativa con Flask y Vue para tareas, alumnos y recompensas. [Ver caso práctico](https://manrio.dev/projects/ProjectTaskGamification).
 
-## 📚 Ahora mismo
+## Tecnologías con las que trabajo
 
-- Construyendo el backend de **Verifactu App** con FastAPI.
-- Mejorando mis conocimientos de testing, arquitectura y bases de datos.
-- Buscando una oportunidad como **desarrollador web junior**, especialmente con React, TypeScript, Node.js o Python.
+| Área | Tecnologías |
+| --- | --- |
+| **Frontend** | HTML · CSS · JavaScript · TypeScript · React · Next.js · Vue · Tailwind CSS |
+| **Backend** | Node.js · Express · Python · FastAPI · Flask · Java · Spring Boot · APIs REST |
+| **Bases de datos** | PostgreSQL · MySQL · SQLite · Prisma · SQLAlchemy · Firebase |
+| **Herramientas y calidad** | Git · GitHub · Docker · Postman · Pytest · ESLint · Vite · Vercel |
+| **Automatización e integraciones** | n8n · Stripe · Webhooks |
 
-## 📫 Contacto
+No domino todas estas tecnologías al mismo nivel: son herramientas que he utilizado en proyectos, estudios o prácticas y sobre las que continúo aprendiendo.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.manrio.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.manrio.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Ríos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelriosdev/)
-[![Email](https://img.shields.io/badge/Email-manureina87%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manureina87@gmail.com)
+## Lo que estoy haciendo ahora
+
+- **Desarrollando VeriFactu App**, especialmente el backend, la gestión de documentos comerciales y sus pruebas.
+- **Manteniendo y mejorando proyectos publicados**, incluido el ecommerce PN Impresión 3D.
+- **Profundizando en desarrollo Full Stack**, testing, buenas prácticas de Git y despliegues.
+- **Buscando mi próxima oportunidad profesional** para aprender dentro de un equipo y aportar desde el primer día.
+
+## Un poco más sobre mí
+
+Soy técnico superior en **Desarrollo de Aplicaciones Web (DAW)**. Además de los proyectos personales, he trabajado en un contexto profesional durante mis prácticas y he desarrollado soluciones para necesidades reales.
+
+Mi experiencia laboral anterior en distintos sectores me ha enseñado a adaptarme, comunicarme con personas de perfiles diferentes y valorar los procesos que hay detrás de cada negocio. Ahora quiero trasladar todo eso al desarrollo de software.
+
+Si has llegado hasta aquí porque estás valorando incorporar a alguien a tu equipo, puedes conocer mejor mi trabajo en **[manrio.dev](https://manrio.dev)**.
+
+## Hablemos
+
+Estoy interesado en puestos **Frontend Junior, Full Stack Junior o desarrollo y automatización**, tanto en **Sevilla** como **en remoto**.
+
+- 🌐 [Portfolio y casos prácticos](https://manrio.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/manuelriosdev/)
+- 📩 [Correo electrónico](mailto:manureina87@gmail.com)
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManRio&show_icons=true&theme=radical" alt="Estadísticas GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManRio&theme=radical" alt="Racha de GitHub" />
-</p>
-
----
-
-✨ _"Construyendo hoy las soluciones del mañana."_
+*Seguir aprendiendo, construir cosas útiles y enseñar el trabajo que hay detrás.*
